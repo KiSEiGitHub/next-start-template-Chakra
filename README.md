@@ -1,6 +1,11 @@
+# 1 :
+````bash
+npm install
+````
+For download all dependecies like [Chakra](https://chakra-ui.com/)
 ## Getting Started
 
-First, run the development server:
+Run the development server:
 
 ```bash
 npm run dev
